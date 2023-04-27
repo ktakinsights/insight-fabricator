@@ -1,0 +1,101 @@
+ICD-9 Procedure Code,Descriptor
+0,"Procedures And Interventions, Not Elsewhere Classified"
+1,"Incision And Excision Of Skull, Brain, And Cerebral Meninges"
+2,"Other Operations On Skull, Brain, And Cerebral Meninges"
+3,Operations On Spinal Cord And Spinal Canal Structures
+4,Operations On Cranial And Peripheral Nerves
+5,Operations On Sympathetic Nerves Or Ganglia
+6,Operations On Thyroid And Parathyroid Glands
+7,Operations On Other Endocrine Glands
+8,Operations On Eyelids
+9,Operations On Lacrimal System
+10,Operations On Conjunctiva
+11,Operations On Cornea
+12,"Operation On Iris, Ciliary Body, Sclera, And Anterior Chamber"
+13,Operations On Lens
+14,"Operations On Retina, Choroid, Vitreous, And Posterior Chamber"
+15,Operations On Extraocular Muscles
+16,Operations On Orbit And Eyeball
+17,Other Miscellaneous Procedures
+18,Operations On External Ear
+19,Reconstructive Operations On Middle Ear
+20,Other Operations On Middle And Inner Ear
+21,Operation On Nose
+22,Operations On Nasal Sinuses
+23,Removal And Restoration Of Teeth
+24,"Other Operations On Teeth, Gums, And Alveoli"
+25,Operations On Tongue
+26,Operations On Salivary Glands And Ducts
+27,Other Operations On Mouth And Face
+28,Operations On Tonsils And Adenoids
+29,Operation On Pharynx
+30,Excision Of Larynx
+31,Other Operations On Larynx And Trachea
+32,Excision Of Lung And Bronchus
+33,Other Operations On Lung And Bronchus
+34,"Operations On Chest Wall, Pleura, Mediastinum, And Diaphragm"
+35,Operations On Valves And Septa Of Heart
+36,Operations On Vessels Of Heart
+37,Other Operations On Heart And Pericardium
+38,"Incision, Excision, And Occlusion Of Vessels"
+39,Other Operations On Vessels
+40,Operations On Lymphatic System
+41,Operations On Bone Marrow And Spleen
+42,Operations On Esophagus
+43,Incision And Excision Of Stomach
+44,Other Operations On Stomach
+45,"Incision, Excision, And Anastomosis Of Intestine"
+46,Other Operations On Intestine
+47,Operations On Appendix
+48,"Operations On Rectum, Rectosigmoid, And Perirectal Tissue"
+49,Operations On Anus
+50,Operations On Liver
+51,Operations On Gallbladder And Biliary Tract
+52,Operations On Pancreas
+53,Repair Of Hernia
+54,Other Operations On Abdominal Region
+55,Operations On Kidney
+56,Operations On Ureter
+57,Operations On Urinary Bladder
+58,Operations On Urethra
+59,Other Operations On Urinary Tract
+60,Operations On Prostate And Seminal Vesicles
+61,Operations On Scrotum And Tunica Vaginalis
+62,Operations On Testes
+63,"Operations On Spermatic Cord, Epididymis, And Vas Deferens"
+64,Operations On Penis
+65,Operations On Ovary
+66,Operations On Fallopian Tubes
+67,Operations On Cervix
+68,Other Incision And Excision Of Uterus
+69,Other Operations On Uterus And Supporting Structures
+70,Operations On Vagina And Cul-De-Sac
+71,Operations On Vulva And Perineum
+72,"Forceps, Vacuum, And Breech Delivery"
+73,Other Procedures Inducing Or Assisting Delivery
+74,Cesarean Section And Removal Of Fetus
+75,Other Obstetric Operations
+76,Operations On Facial Bones And Joints
+77,"Incision, Excision, And Division Of Other Bones"
+78,"Other Operations On Bones, Except Facial Bones"
+79,Reduction Of Fracture And Dislocation
+80,Incision And Excision Of Joint Structures
+81,Repair And Plastic Operations On Joint Structures
+82,"Operations On Muscle, Tendon, And Fascia Of Hand"
+83,"Operations On Muscle, Tendon, Fascia, And Bursa, Except Hand"
+84,Other Procedures On Musculoskeletal System
+85,Operations On The Breast
+86,Operations On Skin And Subcutaneous Tissue
+87,Diagnostic Radiology
+88,Other Diagnostic Radiology And Related Techniques
+89,"Interview, Evaluation, Consultation, And Examination"
+90,Microscopic Examination--I
+91,Microscopic Examination--Ii
+92,Nuclear Medicine
+93,"Physical Therapy, Respiratory Therapy, Rehabilitation, And Related Procedures"
+94,Procedures Related To The Psyche
+95,Ophthalmologic And Otologic Diagnosis And Treatment
+96,Nonoperative Intubation And Irrigation
+97,Replacement And Removal Of Therapeutic Appliances
+98,Nonoperative Removal Of Foreign Body Or Calculus
+99,Other Nonoperative Procedures
