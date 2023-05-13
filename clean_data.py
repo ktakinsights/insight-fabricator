@@ -48,7 +48,6 @@ new_columns = {
 
 # Rename the columns
 data = data.rename(columns=new_columns)
-print(data.head())
 
 # Transform gender categories
 gender_dict = {1: 'Male', 2: 'Female'}
@@ -82,9 +81,5 @@ drg_counts = data['base_drg'].value_counts()
 drg_filter = drg_counts[drg_counts >= 2000].index
 data = data[data['base_drg'].isin(drg_filter)]
 
-# Show filtered results
-original_data = pd.read_csv(data_filepath)
-print(f"Original data shape: {original_data.shape}")
-print(f"Filtered data shape: {data.shape}")
-
+# Export to csv
 data.to_csv('data_cleaned.csv', index=False)
